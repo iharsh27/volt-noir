@@ -1,3 +1,4 @@
+import voltNoir from "./assets/volt-noir.png";
 import { motion, useScroll, useSpring, useTransform } from "motion/react";
 import {
   ArrowDown,
