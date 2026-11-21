@@ -21,7 +21,6 @@ import {
   Zap,
 } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
-import voltNoir from "./assets/volt-noir.png";
 
 /* =========================================================
    VOLT NOIR
